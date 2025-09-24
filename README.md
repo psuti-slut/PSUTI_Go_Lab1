@@ -7,3 +7,5 @@ go run ./fourth/.
 ```
 For all the tasks that are left running procedure is the same, you just replace fourth with task folder name
 
+!TODO: add tasks text
+
